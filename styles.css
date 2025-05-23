@@ -1,0 +1,12 @@
+body { background-color: #e0f7fa; }
+h1 { font-size: 32px; }
+p { font-size: 12px; }
+.centered {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+h1, p {
+ margin: 0;
+ padding: 0;
+}
